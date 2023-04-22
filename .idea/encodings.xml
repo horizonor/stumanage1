@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sql/insert_choose.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/insert_edu_stu_plan.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/insert_education_plan.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/insert_loginformation.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/insert_student.sql" charset="GBK" />
+  </component>
+</project>
